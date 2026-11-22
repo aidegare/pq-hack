@@ -6,8 +6,13 @@ dependencies = [
     "aqora[pytket]==0.39.0",
     "guppylang==1.1.3",
     "hugr-qir==0.4.0",
+    "matplotlib>=3.11.2",
     "numpy>=2.2.6,<3",
+    "pennylane>=0.45.1",
+    "pennylane-cirq>=0.44.0",
+    "pennylane-metal>=0.2.1",
     "pyqir>=0.12.8,<0.13",
+    "qsimcirq>=0.22.1",
 ]
 
 [project.scripts]
